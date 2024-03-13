@@ -103,6 +103,8 @@ v7darwin_2_roboflow(overwrite_existing_data=True)
 
 If you find the toolkit useful for your work, please consider citing it.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10813940.svg)](https://doi.org/10.5281/zenodo.10813940)
+
 ## ©️ License
 
 [MIT](https://choosealicense.com/licenses/mit/)
